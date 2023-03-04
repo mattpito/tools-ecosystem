@@ -1,5 +1,6 @@
 # ELIXIR Tools Ecosystem
-This is the main branch for the github repo hosting the Tools Ecosytem digital presence. The Tools Ecosystem is an initiative suppored by the European Ifrustucre for Life Sciences (ELIXIR) and aims to aggregate, sync and redistribute  metadata generated from nuemrous services in bioinfromatic research and beyond.
+This is the main branch for the github repo hosting the Tools Ecosytem digital presence. The Tools Ecosystem is an initiative suppored by the European 
+infrastructure for Life Sciences (ELIXIR) and aims to aggregate, sync and redistribute  metadata generated from nuemrous services in bioinfromatic research and beyond.
 ## Services Connected to the Tools Ecosystem
 Many European and Global services are linked to the Tools Ecosystem central hub such as Galaxy, bio.tools, OpenEbench, WorkflowHub, BioContainers and BioConda.
 ## The purpose of the Tools Ecosystem
